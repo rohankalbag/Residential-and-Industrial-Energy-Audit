@@ -1,4 +1,4 @@
-# Residential-and-Industrial-Energy-Audit
+# Analysis of energy consumption and connected loads via residential and industrial energy audit
 
 ## **Course Project - EN 110  - Spring Semester 2020 - Indian Institute of Technology Bombay**
 
